@@ -5,8 +5,8 @@ Feature: US01: Como paciente quiero escoger el tipo de actividad necesaria de mi
     When el paciente escoge "Tipo de recordatorio"
     Then el paciente es redirigido al formulario para agregar recordatorios de medicamentos
 Examples:
-|	    Tipo de recordatorio     |
-|         Medicamentos           |
+|   Tipo de recordatorio    |
+|   Medicamentos           |
 
 
     Scenario: Elige el recordatorio de citas médicas
